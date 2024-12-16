@@ -1,4 +1,3 @@
-< img src ="https://github.com/user-attachments/assets/3ef6f51b-3ad4-4b6d-981f-155e37070dda.png" alt="githeader">
 
 <p align="center">
   <a href="https://www.Dinsha/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3ef6f51b-3ad4-4b6d-981f-155e37070dda.png" alt="githeader"></a>
@@ -34,6 +33,8 @@ I love the entire process of developing creative websites. I love the challenge 
 # Connect with me
 
 <a href="https://www.linkedin.com/in/dinsha-sivan-20849026b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+##
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinshasivan)](https://github.com/dinshasivan)
 
