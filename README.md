@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.Dinsha/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3ef6f51b-3ad4-4b6d-981f-155e37070dda.png" alt="githeader"></a>
+  <img src="https://github.com/user-attachments/assets/3ef6f51b-3ad4-4b6d-981f-155e37070dda.png" alt="githeader">
 </p>
 
 ## Hello! I'm Dinsha👋 
@@ -9,6 +9,11 @@ I'm a Full-Stack Web Developer 💻
 </h2>
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
+
+# Connect with me
+
+<a href="https://www.linkedin.com/in/dinsha-sivan-20849026b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
 
 # 💻 My Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -30,9 +35,6 @@ I love the entire process of developing creative websites. I love the challenge 
 </ul>
 </p>
 
-# Connect with me
-
-<a href="https://www.linkedin.com/in/dinsha-sivan-20849026b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 ##
 
